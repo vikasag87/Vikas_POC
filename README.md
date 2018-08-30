@@ -2,7 +2,7 @@
 Candidate Management System &amp; DragDrop
 
 
-1. Use 7z application to unzip the files.
+1. Use 7z to unzip the files.
 2. CMSDB.7z contains Database backup file which you need to restore.
 3. CMSWebApi.7z contains a simple Web Api application for CMS CRUD operations.
 4. CandidateManagementSystem.7z contains angular application folder.
